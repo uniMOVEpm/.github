@@ -2,4 +2,4 @@
 
 🏎️ uniMOVEpm Team Page 🏎️
 
-![uniMOVEpm Logo](./profile/profile.jpg)
+![uniMOVEpm Logo](./profile.jpg)
